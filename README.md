@@ -39,3 +39,4 @@ https://home.strw.leidenuniv.nl/~kenworthy/papers/2018A&A...619A.157M.pdf
 
 https://en.wikipedia.org/wiki/V1400_Centauri#cite_ref-Mamajek12_1-10
 
+Model for J1407 https://vimeo.com/117757625
