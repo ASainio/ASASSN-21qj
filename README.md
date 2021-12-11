@@ -1,4 +1,4 @@
-# https://clips.twitch.tv/WiseCallousStinkbugNotATK-I04IV5jzGfD9i0cq
+
 Lets learn and study
 
 Lets start with importing unnormalized lighcurve (flux + g)
