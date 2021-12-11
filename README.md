@@ -19,6 +19,8 @@ https://github.com/mkenworthy/asas-sn-J060000
 
 
 Papers:
+
+
 On the Incidence of Wise Infrared Excess Among Solar Analog, Twin, and Sibling Stars
 https://repositorio.ufrn.br/jspui/bitstream/123456789/29110/1/OnTheIncidenceOfWiseInfraredExcessAmongSolar_Medeiros_2017.pdf
 
