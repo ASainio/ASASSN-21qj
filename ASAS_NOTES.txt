@@ -15,11 +15,14 @@ of infrared excess. (We did not find any changes in optical flux during this tim
 
 
 INFRARED:
-Wide-field Infrared Survey Explorer (WISE) mission was launched in December 2009. WISE surveyed the full sky in four infrared wavelength bands 3.4(W1), 4.6(W2), 12(W3) and 22 μm(W4). WISE was placed on hibernation February 2011 after its hydrogen cooling had depleted four months earlier.  (Quote neowise site @https://neowise.ipac.caltech.edu/)
+Wide-field Infrared Survey Explorer (WISE) mission was launched in December 2009. WISE surveyed the full sky in four infrared wavelength bands 3.4(W1), 
+4.6(W2), 12(W3) and 22 μm(W4). WISE was placed on hibernation February 2011 after its hydrogen cooling had depleted four months earlier.  
+(Quote neowise site @https://neowise.ipac.caltech.edu/)
 
 In 2013 WISE satellite was re-activated and continued whole sky survey as NEOWISE mission using two infrared bands W1 and W2 covering the sky twice a year. ()
 
-We retrieved all point source photometry from NEOWISE-R Single Exposure (L1b) Source Table for years from 2013 to 2020 and requested later NEOWISE-R data from NEOWISE crew for unreleased epochs from 4/2021 and 10/2021.  
+We retrieved all point source photometry from NEOWISE-R Single Exposure (L1b) Source Table for years from 2013 to 2020 and requested later NEOWISE-R data from 
+NEOWISE crew for unreleased epochs from 4/2021 and 10/2021.  
 We continued retrieving older WISE mission data and GLIMPSE360 mission data both from 2010. 
 
 We concluded that all W1 and W2 infrared data from 2010 WISE data to epoch at 10/2017 from NEOWISE had stable and nominal 
@@ -28,7 +31,11 @@ flaring or fluxtuations on GLIMPSE360 or WISE W1 and W2 bands until beginning of
 
 (suggesting that dust detected in W1 and w2 is due to recent event at stellar orbit rather than variability component.)
 
-Earlier multiple groups have been using succesfully W1-W4 wavelengths combined with optical inspections to discover thousands of stellar disc candidates and hundreds of confirmed stellar disks or Young Solar Objects (YSO). Commong factor for these objects have been strong detection in W4. Kuchner at al. list that in previous studies objects with low W4 SNR (<3) have had high false positive rate. We carefully inspected J0815-3859 W3 and W4 detections from 2010 and concluded W4 being non-detection and and W3 having poor snr ~2.6. We further concluded that this data was not usable to make conclusions about existence of pre-event dust. A null-detection excess in W3 and W4 does not necessarily indicate the total absence of pre-event dust around a star because of instrument limitations. 
+Earlier multiple groups have been using succesfully W1-W4 wavelengths combined with optical inspections to discover thousands of stellar disc candidates and hundreds of
+confirmed stellar disks or Young Solar Objects (YSO). Commong factor for these objects have been strong detection in W4. Kuchner at al. list that in previous studies objects
+with low W4 SNR (<3) have had high false positive rate. We carefully inspected J0815-3859 W3 and W4 detections from 2010 and concluded W4 being non-detection and and W3 having
+poor snr ~2.6. We further concluded that this data was not usable to make conclusions about existence of pre-event dust. A null-detection excess in W3 and W4 does not
+necessarily indicate the total absence of pre-event dust around a star because of instrument limitations. 
 
 ...I need to add J and J-H....
 
