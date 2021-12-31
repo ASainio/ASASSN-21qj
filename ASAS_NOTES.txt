@@ -66,6 +66,8 @@ W1= 11.681	0.023	3.35 47.6
 W2= 11.749	0.022	4.6 49.7
 W3= 12.247	0.474	11.6 2.3
 
+There is strong detection in  Galex, I don't know anything about UV.
+
 
 
 Resources to check:
