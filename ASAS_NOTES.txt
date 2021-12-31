@@ -1,14 +1,15 @@
 asassn 21qj 123.847530 -38.989820
-ASAS DATA 081523-3859 <- WHERE DID I TAKE THIS #asas data id missing the target btw.
 
 ABSTRACT:
 
 
-We report follow up research on long period dimming event on solar type star ASAS-SN 21qj (J0815-3859) located near Puppis constellation at ~567pc from our solar system. The source had a stable optical flux untill 2021-08-26 when All-Sky Automated Survey for SuperNovae (ASAS-SN, Shappee et al. 2014, Kochanek et al. 2017)  reported beginning of long period dimming event (Quote atel). Event has lasted to end of 2021 and has included series of ??? events.
+We report follow up research on long period dimming event on solar type star ASAS-SN 21qj (J0815-3859) located near Puppis constellation at ~567pc from our solar system. 
+The source had a stable optical flux untill 2021-08-26 when All-Sky Automated Survey for SuperNovae (ASAS-SN, Shappee et al. 2014, Kochanek et al. 2017)  reported beginning of long period dimming event (Quote atel). Event has lasted to end of 2021 and has included series of ??? events.
 
 During follow up research we discovered significant reddening beginning prior the optical dimming period. 
 The source had a stable mid-infrared flux on Wide-field Infrared Survey(WISE) untill 7/2017 and when WISE observed the target region 
-again at 4/2018 the source had reddened in W1 about 0.3 magnitudes and in W2 about 0.8 magnitudes. W1-W2 increased from ~-0.1 to 0.35 suggesting notable developement of infrared excess. (We did not find any changes in optical flux during this time period suggesting the event causing reddening did not happen between observer and the source.)
+again at 4/2018 the source had reddened in W1 about 0.3 magnitudes and in W2 about 0.8 magnitudes. W1-W2 increased from ~-0.1 to 0.35 suggesting notable developement 
+of infrared excess. (We did not find any changes in optical flux during this time period suggesting the event causing reddening did not happen between observer and the source.)
 
 
 
@@ -26,7 +27,11 @@ flaring or fluxtuations on GLIMPSE360 or WISE W1 and W2 bands until beginning of
 
 (suggesting that dust detected in W1 and w2 is due to recent event at stellar orbit rather than variability component.)
 
-Earlier multiple groups have been using succesfully W1-W4 wavelengths combined with optical inspections to discover thousands of stellar disc candidates and hundreds of confirmed stellar disks or Young Solar Objects (YSO). Commong factor for these objects have been strong detection in W4. Kuchner at al. list that in previous studies objects with low W4 SNR (<3) have had high false positive rate. We carefully inspected J0815-3859 W3 and W4 detections from 2010 and concluded W4 being non-detection and and W3 having poor snr ~2.6. We further concluded that this data was not usable to make conclusions about existence of pre-event dust. A null-detection excess in W3 and W4 does not necessarily indicate the total absence of pre-event dust around a star because of instrument limitations. 2MASSSSSSS!! Does UKIRT have anything this south??? AAAAAAAAAAAAAAAAARRRRRGHHHHHHHHHHHHHHHH
+Earlier multiple groups have been using succesfully W1-W4 wavelengths combined with optical inspections to discover thousands of stellar disc candidates and hundreds of confirmed stellar disks or Young Solar Objects (YSO). Commong factor for these objects have been strong detection in W4. Kuchner at al. list that in previous studies objects with low W4 SNR (<3) have had high false positive rate. We carefully inspected J0815-3859 W3 and W4 detections from 2010 and concluded W4 being non-detection and and W3 having poor snr ~2.6. We further concluded that this data was not usable to make conclusions about existence of pre-event dust. A null-detection excess in W3 and W4 does not necessarily indicate the total absence of pre-event dust around a star because of instrument limitations. 
+
+...I need to add J and J-H....
+
+2MASSSSSSS!! Does UKIRT have anything this south??? AAAAAAAAAAAAAAAAARRRRRGHHHHHHHHHHHHHHHH
 
 "In general, an IR excess suggests the existence of warm dust around a star. "
 
@@ -108,15 +113,6 @@ So the IR brightening started between 58071 - 58225. Sector 7 starts from 58400,
  
 
 
-TESS sector matching brightening?
-
-TESS pixel time series!
-123.847530 , -38.989820
-
-
-I measured ~150mas difference between pre event WISE data center-point vs. data
-during the event. Later in WISE data, center point seems to be moving back towards what it was pre-event.
-
 The possible collasion event did not happen between us and the star. That is why the star 
 did not immediatly dim. The IR excess did rise because collasion happened "next" to star creating heat and dust visible only in infrared. 
 The IR excess from event was so strong on stars orbit that center point of WISE data shifted slightly towards the dust cloud. 
@@ -127,7 +123,8 @@ Random:
 
 IF brightening started between epochs of 10/2017 4/2018/.
 
-
+I measured ~150mas difference between pre event WISE data center-point vs. data
+during the event. Later in WISE data, center point seems to be moving back towards what it was pre-event.
 Epoch 9 mean coords: 123.84688672142859 -38.989886436842106
 Epoch 10 mean coords: 123.84690402142857 -38.98984544666667
 
