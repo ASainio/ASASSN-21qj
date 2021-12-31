@@ -4,7 +4,8 @@ ABSTRACT:
 
 
 We report follow up research on long period dimming event on solar type star ASAS-SN 21qj (J0815-3859) located near Puppis constellation at ~567pc from our solar system. 
-The source had a stable optical flux untill 2021-08-26 when All-Sky Automated Survey for SuperNovae (ASAS-SN, Shappee et al. 2014, Kochanek et al. 2017)  reported beginning of long period dimming event (Quote atel). Event has lasted to end of 2021 and has included series of ??? events.
+The source had a stable optical flux untill 2021-08-26 when All-Sky Automated Survey for SuperNovae (ASAS-SN, Shappee et al. 2014, Kochanek et al. 2017) 
+reported beginning of long period dimming event (Quote atel). Event has lasted to end of 2021 and has included series of ??? events.
 
 During follow up research we discovered significant reddening beginning prior the optical dimming period. 
 The source had a stable mid-infrared flux on Wide-field Infrared Survey(WISE) untill 7/2017 and when WISE observed the target region 
