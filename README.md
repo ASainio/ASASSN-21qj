@@ -13,9 +13,10 @@ AAVSO               In Area                               prior 58200         ce
 HATNet              ???
 NGTS Dr2            OUT OF AREA
 NGTS unpublished    OUT OF AREA
-SupwesWASP          OUT OF AREA
+SupersWASP          OUT OF AREA
 OGLE                OUT OF AREA
 MOA                 OUT OF AREA
+CoRot										http://idoc-corot.ias.u-psud.fr/
 
 Other:
 XMM-Newton SIA    In Area         Not started                                 X-ray. well why not check this as well...
