@@ -1,10 +1,29 @@
+I am retrieving all available time series. I ins0ect each dataset for transit components. I remove outliers manually and using lightkurve. I run both manually enhanced and lightkurve enhancaed datasets thru Box_least_squares algorithm for finding periods. I compare suggested periods between  data products. I merge light curves from diferent sources to create longer period data set, I flatten the data and run whole dataset thru BLS.
 
-Lets learn and study
+I have previously retrieve pretty much all available single detections -those can be found in History folder.
 
-Lets start with importing unnormalized lighcurve (flux + g)
-Lets figure out the baseline before eclipsing event.
+Workflow:
+        
+VISTA VVV(X)        In Area       Done                    after 58200         Manually subtracked magnitudes from raw fits files and created Ks lghtcurve.
+ASAS                In Area       IN Progress             prior 58200         Huge center off set
+ASAS-SN             In Area       Done                    Prioar and after    V-mag is before 8200 but is messy. I have processed this data with BLS and LK.
+TESS                In Area       Done                    after 58200         TIC 182582608
+AAVSO               In Area                               prior 58200         center off set
 
-RESOURCES:
+HATNet              ???
+NGTS Dr2            OUT OF AREA
+NGTS unpublished    OUT OF AREA
+SupwesWASP          OUT OF AREA
+OGLE                OUT OF AREA
+MOA                 OUT OF AREA
+
+Other:
+XMM-Newton SIA    In Area         Not started                                 X-ray. well why not check this as well...
+GAIA RV /LC       In Area         Not started 
+CMC15             In Area         Not started                                 Has old J, H Ks
+AFOE  (RV)                                                                    https://lweb.cfa.harvard.edu/afoe/afoe.html
+Chandra?
+
 
 Source:
 https://astronomerstelegram.org/?read=14879
@@ -14,31 +33,10 @@ https://asas-sn.osu.edu/sky-patrol/coordinate/b43693ab-dccc-499f-bc24-91db9977df
 https://asas-sn.osu.edu/sky-patrol/coordinate/c4765b75-bfa4-4fc6-9d3a-9b3d11555506 <- Full asassn (note V / G)
 
 
-Pythons stuff to practice by Matt(thank you):
-https://github.com/mkenworthy/asas-sn-J060000
-
 
 Papers:
-
 
 On the Incidence of Wise Infrared Excess Among Solar Analog, Twin, and Sibling Stars
 https://repositorio.ufrn.br/jspui/bitstream/123456789/29110/1/OnTheIncidenceOfWiseInfraredExcessAmongSolar_Medeiros_2017.pdf
 
-A search for transiting companions in the J1407 (V1400 Cen)
-system?
-https://home.strw.leidenuniv.nl/~kenworthy/papers/2021A&A...652A.117B.pdf
 
-ALMA and NACO observations towards the young exoring transit
-system J1407 (V1400 Cen)?
-https://home.strw.leidenuniv.nl/~kenworthy/papers/2021A&A...652A.117B.pdf
-
-Astro2020 Science White Paper - Modeling Debris Disk Evolution
-https://home.strw.leidenuniv.nl/~kenworthy/papers/2019BAAS...51c..69G.pdf
-
-Constraining the period of the ringed secondary companion to
-the young star J1407 with photographic plates
-https://home.strw.leidenuniv.nl/~kenworthy/papers/2018A&A...619A.157M.pdf
-
-https://en.wikipedia.org/wiki/V1400_Centauri#cite_ref-Mamajek12_1-10
-
-Model for J1407 https://vimeo.com/117757625
